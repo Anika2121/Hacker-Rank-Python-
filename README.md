@@ -1,2 +1,2 @@
 # Hacker-Rank(Python)
-![Image](https://github.com/user-attachments/assets/bf5a99f1-2e2b-4524-a804-2a47c4d11277)
+![Image](https://github.com/user-attachments/assets/3fca70f7-f4f7-4f37-95b5-c9ad2e729c6a)
